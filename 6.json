@@ -1,23 +1,17 @@
 {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
-    }
-  }
+    "id": 6,
+    "name": "Adobe",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Adobe_Corporate_logo.svg",
+    "title": "A Full Stack Disigner",
+    "salary": "300K - 450K",
+    "sub_address": "Dhaka , Narsindi",
+    "phone": 142454432,
+    "mail": "info@daraz.com",
+    "full_address": "Narsindi  road 21/7, Dhaka  Narsindi, Bangladesh",
+    "description": "Adobe Inc., originally called Adobe Systems Incorporated, is an American multinational computer software company incorporated in Delaware and headquartered in San Jose, California.",
+    "responsibility": "Experience The Entire Adobe Creative Cloud & Start Creating Amazing Things. Make Your Job Easier With Adobe Acrobat, The Trusted PDF Editor & Creator. Join Today! Connected In One Place. Apps and Services. Special Offers. Types: PDF, Video, Photo.",
+    "educational_requirements": "A Junnior Digner",
+    "experiences": "2- 3 year Exp.",
+    "button_fulltime" : "Full Time",
+    "button_llx" : "Onsite"
+}
