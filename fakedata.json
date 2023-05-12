@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "Google LLC",
         "img": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
         "title": "Technical Database Engineer",
@@ -17,7 +17,7 @@
         "button_llx" : "Remote"
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Netflix",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
         "title": "Senior Product Designer",
@@ -34,7 +34,7 @@
         "button_llx" : "Onsite"
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Tesla",
         "img": "https://cdn.freebiesupply.com/logos/large/2x/tesla-9-logo-png-transparent.png",
         "title": "Software Engineer",
@@ -51,7 +51,7 @@
         "button_llx" : "Onsite"
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Daraz",
         "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Daraz_Logo.png",
         "title": "A Seller Buyer",
@@ -68,7 +68,7 @@
         "button_llx" : "Remote"
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Microsoft",
         "img": "https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg",
         "title": "A Full Stack Developer",
@@ -85,7 +85,7 @@
         "button_llx" : "Remote"
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Adobe",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Adobe_Corporate_logo.svg",
         "title": "A Full Stack Disigner",
