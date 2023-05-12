@@ -1,17 +1,23 @@
 {
-    "id": 6,
-    "name": "Adobe",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Adobe_Corporate_logo.svg",
-    "title": "A Full Stack Disigner",
-    "salary": "300K - 450K",
-    "sub_address": "Dhaka , Narsindi",
-    "phone": 142454432,
-    "mail": "info@daraz.com",
-    "full_address": "Narsindi  road 21/7, Dhaka  Narsindi, Bangladesh",
-    "description": "Adobe Inc., originally called Adobe Systems Incorporated, is an American multinational computer software company incorporated in Delaware and headquartered in San Jose, California.",
-    "responsibility": "Experience The Entire Adobe Creative Cloud & Start Creating Amazing Things. Make Your Job Easier With Adobe Acrobat, The Trusted PDF Editor & Creator. Join Today! Connected In One Place. Apps and Services. Special Offers. Types: PDF, Video, Photo.",
-    "educational_requirements": "A Junnior Digner",
-    "experiences": "2- 3 year Exp.",
-    "button_fulltime" : "Full Time",
-    "button_llx" : "Onsite"
-}
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  }
