@@ -1,0 +1,17 @@
+{
+    "id": "3",
+    "name": "Tesla",
+    "img": "https://cdn.freebiesupply.com/logos/large/2x/tesla-9-logo-png-transparent.png",
+    "title": "Software Engineer",
+    "salary": "110K - 120K",
+    "sub_address": "Khulan, Jaman",
+    "phone": 142433432,
+    "mail": "info@tesla.com",
+    "full_address": "Madobari road 23/2, Jaman Khulna, Bangladesh",
+    "description": "The company was incorporated as Tesla Motors, Inc. on July 1, 2003, by Martin Eberhard and Marc Tarpenning.[13] Eberhard and Tarpenning served as CEO and CFO, respectively.[14] Eberhard said he wanted to build a car manufacturer that is also a technology company, with its core technologies as the battery, the computer software, and the proprietary motor",
+    "responsibility": "In November 2016, the company announced the Tesla glass technology group. The group produced the roof glass for the Tesla Model 3. It also produces the glass used in the Tesla Solar Roof's solar shingles.",
+    "educational_requirements": "A Junnior Software Enginner",
+    "experiences": "1-2 Years in this field.",
+    "button_fulltime" : "Full Time",
+    "button_llx" : "Onsite"
+}

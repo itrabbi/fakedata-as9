@@ -1,0 +1,17 @@
+{
+    "id": "5",
+    "name": "Microsoft",
+    "img": "https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg",
+    "title": "A Full Stack Developer",
+    "salary": "100K - 180K",
+    "sub_address": "Maymenshing, Norail",
+    "phone": 142454432,
+    "mail": "info@daraz.com",
+    "full_address": "Norail road 21/7, Norail Mymenshing, Bangladesh",
+    "description": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers.",
+    "responsibility": "Get free Outlook email and calendar, plus Office Online apps like Word, Excel and PowerPoint. Sign in to access your Outlook, Hotmail or Live email account.",
+    "educational_requirements": "A Junnior Digner",
+    "experiences": "1- 2 year Exp.",
+    "button_fulltime" : "Full Time",
+    "button_llx" : "Remote"
+}

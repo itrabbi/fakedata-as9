@@ -1,0 +1,17 @@
+{
+    "id": "2",
+    "name": "Netflix",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "title": "Senior Product Designer",
+    "salary": "90K - 130K",
+    "sub_address": "Dhaka, Gazipur",
+    "phone": 14243432,
+    "mail": "info@netflix.com",
+    "full_address": "Joydevpur 23/2, Gazipur Dhaka, Bangladesh",
+    "description": "Hastings and Marc Randolph in Scotts Valley, California, it operates the over-the-top subscription video on-demand service Netflix brand, which includes original films and television series commissioned or acquired by the company, and third-party content licensed from other distributors. Netflix is a member of the Motion Picture Association—having become the first streaming company to become a member.",
+    "responsibility": "In January 2011, Netflix announced agreements with several manufacturers to include branded Netflix buttons on the remote controls of devices compatible with the service, such as Blu-ray players.[84] By May 2011, Netflix had become the largest source of Internet streaming traffic in North America, accounting for 30% of traffic during peak hours",
+    "educational_requirements": "Full time development in jsx",
+    "experiences": "3-5 Years in this field.",
+    "button_fulltime" : "Full Time",
+    "button_llx" : "Onsite"
+}
